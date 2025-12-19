@@ -24,11 +24,13 @@ Currently, I'm focusing on improving my skills in web development and graphic de
 
 ### GitHub Stats
 <div align="center">
+  
 ![Nyxth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nynynynyx&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nynynynyx&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nynynynyx&theme=dark)
+
 </div>
 
 ## Link
