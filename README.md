@@ -6,16 +6,25 @@ I enjoy creating projects based on inspiration and ideas that come to mind, and 
 
 Currently, I'm focusing on improving my skills in web development and graphic design through personal development and projects.
 
+
 ## Skills
 - HTML
 - CSS
 - JavaScript
 - Python
 
+
 ## Currently Learning
 - JavaScript Fundamentals
 - Concise Web Development
 - Responsive Web Design
 
+
 ## Link
 - Portfolio (soon)
+
+
+## Fun Facts
+* I like cats
+* I drink coffee 2-3x a day
+* I only go out when necessary
